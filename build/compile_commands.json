@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tomb_raider/Workings/project/C_project/vscode_git_test/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-8  -I/home/tomb_raider/Workings/project/C_project/vscode_git_test/Inc  -g   -std=gnu11 -o CMakeFiles/cmake-test-c.dir/Src/c.c.o   -c /home/tomb_raider/Workings/project/C_project/vscode_git_test/Src/c.c",
+  "file": "/home/tomb_raider/Workings/project/C_project/vscode_git_test/Src/c.c"
+}
+]
